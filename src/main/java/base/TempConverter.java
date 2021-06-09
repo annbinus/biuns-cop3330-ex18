@@ -1,7 +1,7 @@
 package base;
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+  *  Copyright 2021 Ann Binus
 
 * Exercise 18 - Temperature Converter
 You’ll often need to determine which part of a program is run based on user input or other events.
